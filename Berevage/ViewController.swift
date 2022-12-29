@@ -31,6 +31,9 @@ UITextFieldDelegate {
         
         allBerevages=data
         
+        txtSearchBar.clearButtonMode = .always
+        txtSearchBar.clearButtonMode = .whileEditing
+        
         txtSearchBar.addTarget(self, action: #selector(searchRecords(_ :) ), for: .editingChanged)
     }
     
