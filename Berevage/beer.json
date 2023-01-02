@@ -1135,6 +1135,312 @@
           "price":3.99,
           "taxe":false
        },
+       
+       
+       {
+          "id":"1c NO2 473ml",
+          "name":"NO2 473ml",
+          "num":1,
+          "category":"1 canette 16",
+          "product":"energy drink",
+          "price":3.99,
+          "taxe":true
+       },
+       {
+          "id":"1c redrain 473ml",
+          "name":"redrain 473ml",
+          "num":1,
+          "category":"1 canette 16",
+          "product":"energy drink",
+          "price":2.49,
+          "taxe":true
+       },
+       {
+          "id":"1c rockstar 473ml",
+          "name":"rockstar alcool 473ml",
+          "num":1,
+          "category":"1 canette 18",
+          "product":"energy drink",
+          "price":3.59,
+          "taxe":true
+       },
+       {
+          "id":"1c rockstar sans alcool 473ml",
+          "name":"rockstar sans alcool 473ml",
+          "num":1,
+          "category":"1 canette 16",
+          "product":"energy drink",
+          "price":3.39,
+          "taxe":true
+       },
+       {
+          "id":"2c rockstar sans alcool 473ml",
+          "name":"rockstar sans alcool 473ml",
+          "num":2,
+          "category":"2 canette 16",
+          "product":"energy drink",
+          "price":5.49,
+          "taxe":true
+       },
+       {
+          "id":"1c monster 473ml",
+          "name":"monster 473ml",
+          "num":1,
+          "category":"1 canette 16",
+          "product":"energy drink",
+          "price":3.39,
+          "taxe":true
+       },
+       {
+          "id":"2c monster 473ml",
+          "name":"monster 473ml",
+          "num":2,
+          "category":"2 canette 16",
+          "product":"energy drink",
+          "price":5.49,
+          "taxe":true
+       },
+       {
+          "id":"1c redbull 250ml",
+          "name":"redbull 250ml",
+          "num":1,
+          "category":"1 canette 16",
+          "product":"energy drink",
+          "price":3.39,
+          "taxe":true
+       },
+       {
+          "id":"1c redbull 355ml",
+          "name":"redbull 355ml",
+          "num":1,
+          "category":"1 canette 16",
+          "product":"energy drink",
+          "price":3.79,
+          "taxe":true
+       },
+       {
+          "id":"1c redbull 473ml",
+          "name":"redbull 473ml",
+          "num":1,
+          "category":"1 canette 16",
+          "product":"energy drink",
+          "price":4.79,
+          "taxe":true
+       },
+       
+       {
+          "id":"1b gaz 2L",
+          "name":"gaz 2L",
+          "num":1,
+          "category":"cannette inclus",
+          "product":"boisson gaz",
+          "price":39,
+          "taxe":false
+       },
+       {
+          "id":"1b gaz 710ml",
+          "name":"gaz 710ml",
+          "num":1,
+          "category":"cannette inclus",
+          "product":"boisson gaz",
+          "price":39,
+          "taxe":false
+       },
+       
+       {
+          "id":"pain",
+          "name":"pain",
+          "num":1,
+          "category":"non taxable",
+          "product":"pain",
+          "price":4.59,
+          "taxe":false
+       },
+       {
+          "id":"pain hotdog",
+          "name":"pain hotdog",
+          "num":1,
+          "category":"non taxable",
+          "product":"pain",
+          "price":5.39,
+          "taxe":false
+       },
+       {
+          "id":"pain hamburger",
+          "name":"pain hamburger",
+          "num":1,
+          "category":"non taxable",
+          "product":"pain",
+          "price":5.39,
+          "taxe":false
+       },
+       {
+          "id":"1b starbuck 405ml",
+          "name":"starbuck 405ml",
+          "num":1,
+          "category":"caffé",
+          "product":"caffé",
+          "price":3.99,
+          "taxe":true
+       },
+       {
+          "id":"1b starbuck 281ml",
+          "name":"starbuck 281ml",
+          "num":1,
+          "category":"caffé",
+          "product":"caffé",
+          "price":2.99,
+          "taxe":true
+       },
+       
+       {
+          "id":"1s chips petit 55g-84g",
+          "name":"chips 55g-84g",
+          "num":1,
+          "category":"petit chips",
+          "product":"chips",
+          "price":2.19,
+          "taxe":true
+       },
+       {
+          "id":"1s chips doritos gros",
+          "name":"chips doritos gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":5.99,
+          "taxe":true
+       },
+       {
+          "id":"1s chips tostitos gros",
+          "name":"chips tostitos gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":5.99,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Miss Vickies gros",
+          "name":"chips Miss Vickies gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":5.99,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Rold Gold gros",
+          "name":"chips Rold Gold gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":5.99,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Smartfood gros",
+          "name":"chips Smartfood gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":5.99,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Cheetos gros",
+          "name":"chips Cheetos gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":5.99,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Lays gros",
+          "name":"chips Lays gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":4.79,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Ruffles gros",
+          "name":"chips Ruffles gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":4.79,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Munchos gros",
+          "name":"chips Munchos gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":4.79,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Sun chips gros",
+          "name":"chips Sun chips gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":4.79,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Fritos gros",
+          "name":"chips Fritos gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":4.79,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Humpty dumpty gros",
+          "name":"chips Humpty dumpty gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":5.29,
+          "taxe":true
+       },
+       {
+          "id":"1s chips Old dutch gros",
+          "name":"chips Old dutch gros",
+          "num":1,
+          "category":"gros chips",
+          "product":"chips",
+          "price":4.29,
+          "taxe":true
+       },
+       {
+          "id":"pot sauce Tostitos Salsa",
+          "name":"sauce Tostitos Salsa",
+          "num":1,
+          "category":"chips sauce",
+          "product":"sauce",
+          "price":4.79,
+          "taxe":false
+       },
+       {
+          "id":"pot sauce Doritos",
+          "name":"sauce Doritos",
+          "num":1,
+          "category":"chips sauce",
+          "product":"sauce",
+          "price":4.99,
+          "taxe":false
+       },
+       
+       
+       
+       
 
        
  
