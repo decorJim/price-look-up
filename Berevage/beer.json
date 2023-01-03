@@ -18,17 +18,8 @@
          "taxe":true
   },
   {
-         "id":"1c bleu dry 355ml",
-         "name":"bleu dry 355ml",
-         "num":1,
-         "category":"1 canette 16",
-         "product":"beer",
-         "price":1.69,
-         "taxe":true
-  },
-  {
-         "id":"1c black label 355ml",
-         "name":"black label 355ml",
+         "id":"1c bleue dry 355ml",
+         "name":"bleue dry 355ml",
          "num":1,
          "category":"1 canette 16",
          "product":"beer",
@@ -81,8 +72,8 @@
          "taxe":true
   },
   {
-         "id":"1c bleu 355ml",
-         "name":"bleu 355ml",
+         "id":"1c bleue 355ml",
+         "name":"bleue 355ml",
          "num":1,
          "category":"1 canette 16",
          "product":"beer",
@@ -243,8 +234,8 @@
           "taxe":true
        },
        {
-          "id":"1c bleu dry 740ml",
-          "name":"bleu dry 740ml",
+          "id":"1c bleue dry 740ml",
+          "name":"bleue dry 740ml",
           "num":1,
           "category":"1 canette 18",
           "product":"beer",
@@ -252,8 +243,8 @@
           "taxe":true
        },
        {
-          "id":"2c blue dry 740ml",
-          "name":"blue dry 740ml",
+          "id":"2c bleue dry 740ml",
+          "name":"bleue dry 740ml",
           "num":2,
           "category":"2 canette 18",
           "product":"beer",
@@ -508,8 +499,8 @@
           "taxe":true
        },
        {
-          "id":"12c bleu dry 355ml",
-          "name":"bleu dry 355ml",
+          "id":"12c bleue dry 355ml",
+          "name":"bleue dry 355ml",
           "num":12,
           "category":"12 canette 16",
           "product":"beer",
@@ -517,8 +508,8 @@
           "taxe":true
        },
        {
-          "id":"12c bleu 355ml",
-          "name":"bleu 355ml",
+          "id":"12c bleue 355ml",
+          "name":"bleue 355ml",
           "num":12,
           "category":"12 canette 16",
           "product":"beer",
@@ -753,8 +744,8 @@
           "taxe":true
        },
        {
-          "id":"6c blue dry 355ml",
-          "name":"blue dry 355ml",
+          "id":"6c bleue dry 355ml",
+          "name":"bleue dry 355ml",
           "num":6,
           "category":"6 canette 16",
           "product":"beer",
@@ -763,7 +754,7 @@
        },
        {
           "id":"6c budweiser 355ml",
-          "name":"blue dry 355ml",
+          "name":"budweiser 355ml",
           "num":6,
           "category":"6 canette 16",
           "product":"beer",
@@ -825,8 +816,8 @@
           "taxe":true
        },
        {
-          "id":"6c bleu 355ml",
-          "name":"bleu 355ml",
+          "id":"6c bleue 355ml",
+          "name":"bleue 355ml",
           "num":6,
           "category":"6 canette 16",
           "product":"beer",
@@ -1229,8 +1220,8 @@
        },
        
        {
-          "id":"1b gaz 2L",
-          "name":"gaz 2L",
+          "id":"1b boisson gaz 2L",
+          "name":"boisson gaz 2L",
           "num":1,
           "category":"cannette inclus",
           "product":"boisson gaz",
@@ -1238,8 +1229,8 @@
           "taxe":false
        },
        {
-          "id":"1b gaz 710ml",
-          "name":"gaz 710ml",
+          "id":"1b boisson gaz 710ml",
+          "name":"boisson gaz 710ml",
           "num":1,
           "category":"cannette inclus",
           "product":"boisson gaz",
