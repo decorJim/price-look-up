@@ -1223,7 +1223,7 @@
           "id":"1b boisson gaz 2L",
           "name":"boisson gaz 2L",
           "num":1,
-          "category":"cannette inclus",
+          "category":"1 canette 16",
           "product":"boisson gaz",
           "price":39,
           "taxe":false
@@ -1232,7 +1232,7 @@
           "id":"1b boisson gaz 710ml",
           "name":"boisson gaz 710ml",
           "num":1,
-          "category":"cannette inclus",
+          "category":"1 canette 16",
           "product":"boisson gaz",
           "price":39,
           "taxe":false
